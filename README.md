@@ -4,8 +4,8 @@
 
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 Featured Projects
 
