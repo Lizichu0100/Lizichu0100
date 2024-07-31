@@ -25,8 +25,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=github-dark-blue&hide_border=true&card_width=400)](https://git.io/streak-stats)
 
 ## Achievements 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 
