@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Lizichu0100/Lizichu0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Thịnh Phan, just a data science student pass by 
 
-Here are some ideas to get you started:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My Languages 💻
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 68.28%
+- ![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square&logo=verilog&logoColor=white) 27.10%
+- Coq, Makefile, HTML, and more...
+
+## My Activity 📈
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Support Me ☕
+[![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourlink)
+
+---
+Thank you for visiting my profile! Feel free to reach out.
