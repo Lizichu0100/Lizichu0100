@@ -27,7 +27,7 @@
 ## Achievements 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Connect with me
+## Contact
 
 <a href="https://twitter.com/Liziichu" target="_blank">
   <img src="https://img.shields.io/badge/X-%23ff0000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" width="90"/>
