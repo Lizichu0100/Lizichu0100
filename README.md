@@ -8,12 +8,11 @@ Hello! I'm Thịnh Phan, just a data science student pass by
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Languages 💻
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 68.28%
-- ![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square&logo=verilog&logoColor=white) 27.10%
-- Coq, Makefile, HTML, and more...
+![Python](https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-25%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-20%25-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-15%25-blue?style=for-the-badge&logo=r&logoColor=white)
 
-## My Activity 📈
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 Thank you for visiting my profile! Feel free to reach out.
