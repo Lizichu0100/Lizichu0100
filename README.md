@@ -29,5 +29,14 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizzy0100/)
 
+<!-- Nếu bạn muốn thay đổi kích thước biểu tượng, bạn có thể sử dụng HTML như sau -->
+<a href="https://twitter.com/Liziichu" target="_blank">
+  <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" width="100"/>
+</a>
+
+<a href="https://www.instagram.com/lizzy0100/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100"/>
+</a>
+
 ---
 ### Thank you for visiting my profile! Feel free to reach out. 🎉
