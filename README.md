@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" width="76"/>
 <div>
 
+## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu0100&show_icons=true&theme=github_dark&hide_border=true&card_width=400)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=github-dark-blue&hide_border=true&card_width=400)](https://git.io/streak-stats)
 
