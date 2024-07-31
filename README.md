@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="180"/>
 </a>
 
-
 ---
 ### Thank you for visiting! Feel free to reach out. 🎉
-
+![Kirara](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVleGFrMHRpcmxkZGFhOTN1cGVzYjdpbzVubnR6ZXN0cjkycXY5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hfixKFgcjTFgkETRKm/giphy.gif)
