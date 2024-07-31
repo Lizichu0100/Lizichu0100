@@ -4,7 +4,7 @@
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzZzJuOXhpZ2tqaHNod3hmNml2OTk3Nmw1NW0zNWZ2aTE2bXE0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif)
 </div>
 
-<div style="font-size: 150px;">Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊  </div>
+#### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊  
 
 ## 🚀 Featured Projects
 
@@ -35,5 +35,5 @@
 </a>
 
 ---
-Thank you for visiting! Feel free to reach out. 🎉 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVleGFrMHRpcmxkZGFhOTN1cGVzYjdpbzVubnR6ZXN0cjkycXY5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hfixKFgcjTFgkETRKm/giphy.gif" width="200">
+### Thank you for visiting! Feel free to reach out. 🎉 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVleGFrMHRpcmxkZGFhOTN1cGVzYjdpbzVubnR6ZXN0cjkycXY5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hfixKFgcjTFgkETRKm/giphy.gif" width="200">
 
