@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![Hello](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
 Hello! I'm Thịnh Phan, just a data science student pass by 😊
 
