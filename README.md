@@ -39,7 +39,7 @@
 
 ---
 <div align="center">
-<img src="https://giphy.com/stickers/dayxou-genshin-impact-CMoWF5lWMBoJcyYRYV" width="200"> </div>
+<img src="https://media.giphy.com/media/CMoWF5lWMBoJcyYRYV/giphy.gif?cid=790b7611b1j4d0o6cpi42wgwlkv76ydt3ho16dh30cujelvy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"> </div>
   
 ### Thank you for visiting! Feel free to reach out. 🎉 
 
