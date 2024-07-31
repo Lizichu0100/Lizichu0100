@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white)
 
 ## My Languages 💻
-![Python](https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-25%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
