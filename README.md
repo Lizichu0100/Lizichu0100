@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFxdml5cGxvZGNwMGFkZnYxMmFoajUyYTA2emtqcGpibmt6amhmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif)
+![Hello](https://media.giphy.com/media/53N1ssNvPx4rk6YYfD/giphy.gif?cid=790b76115dpilv7j96n8cy8y92fp2cfxzavpjlm4qw8v932x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 Hello! I'm Thịnh Phan, just a data science student pass by 😊
 
