@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/X-%23ff0000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" width="90"/>
 </a><br>
 
-<a href="https://www.instagram.com/lizzy0100/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="180"/>
+<a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-phan-huy-43ba532ba/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" width="180"/>
 </a>
 
 ---
