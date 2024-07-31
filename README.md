@@ -4,13 +4,14 @@
 
 Hello! I'm Thịnh Phan, just a data science student pass by 😊
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with Me
 [![Twitter]()
 [![Instagram]()
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepo)
+
 
 
 ## Achievements 🏆
