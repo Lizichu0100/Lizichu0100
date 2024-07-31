@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4dcbf930-3b4b-4926-a099-14f43ff9dc56)<div align="center">
+<div align="center">
   <h1>Hi there! 👋</h1>
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzZzJuOXhpZ2tqaHNod3hmNml2OTk3Nmw1NW0zNWZ2aTE2bXE0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif)
