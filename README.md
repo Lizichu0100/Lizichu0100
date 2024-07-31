@@ -12,24 +12,11 @@
 
 
 ## My Languages 💻
-
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin-right: 10px;"/>
-  <span>Python</span>
-</span>
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" style="margin-right: 10px;"/>
-  <span>SQL</span>
-</span>
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" style="margin-right: 10px;"/>
-  <span>C++</span>
-</span>
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" style="margin-right: 10px;"/>
-  <span>R</span>
-</span>
-
+## My Languages 💻
+<img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" width="100"/>
+<img src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" width="100"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" width="100"/>
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" width="100"/>
 
 
 ## Achievements 🏆
