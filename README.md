@@ -11,6 +11,8 @@ Hello! I'm Thịnh Phan, just a data science student pass by 😊
 [![Twitter]()
 [![Instagram]()
 
+**Stars**: ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/projectname?style=social)
+
 ## Achievements 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
 
