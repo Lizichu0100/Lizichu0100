@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! 👋</h1>
 
-<img src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif?cid=790b7611nu0zfs0bggwvtazpisatzida23go58jfgvmoprl4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
+<img src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif?cid=790b7611nu0zfs0bggwvtazpisatzida23go58jfgvmoprl4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150">
 </div>
 
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊  
@@ -39,7 +39,7 @@
 
 ---
 <div align="center">
-<img src="https://media.giphy.com/media/CMoWF5lWMBoJcyYRYV/giphy.gif?cid=790b7611b1j4d0o6cpi42wgwlkv76ydt3ho16dh30cujelvy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"> </div>
+<img src="https://media.giphy.com/media/CMoWF5lWMBoJcyYRYV/giphy.gif?cid=790b7611b1j4d0o6cpi42wgwlkv76ydt3ho16dh30cujelvy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"> </div>
   
 ### Thank you for visiting! Feel free to reach out. 🎉 
 
