@@ -7,9 +7,10 @@
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊  
 
 ## 🚀 Featured Projects
-### [👨‍💻 facial expression recognition using machine learning algorithms.](https://github.com/Lizichu0100/Fundamental-ML)
+### [👨‍💻 Facial expression recognition using machine learning algorithms.](https://github.com/Lizichu0100/Fundamental-ML)
 ### [🎓 Analyze the exam scores data of high school graduates in 2024 and predict math scores 2025 using regression models.](https://github.com/Lizichu0100/AnalyzeData_Thi_THPT_2024)
 ### [🎥 Movie Recommendation System](https://github.com/Lizichu0100/Movie-recommendation-system)
+### [🏡 House Price Prediction](https://github.com/Lizichu0100/HousePricePrediction)
 
 ## My Languages 💻
 <div>
