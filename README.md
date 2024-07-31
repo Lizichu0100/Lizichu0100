@@ -5,7 +5,7 @@
 Hello! I'm Thịnh Phan, just a data science student pass by 😊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizzy&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lizzy&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with Me
 [![Twitter]()
