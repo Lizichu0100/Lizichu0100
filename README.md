@@ -8,18 +8,12 @@
 
 ## 🚀 Featured Projects
 
-### [Awesome Project]()
+### [](https://github.com/yourusername/awesomeproject)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white)
 
 ## My Languages 💻
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-25%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-20%25-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![R](https://img.shields.io/badge/R-15%25-blue?style=for-the-badge&logo=r&logoColor=white)
 
 ## Achievements 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
