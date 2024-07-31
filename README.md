@@ -5,7 +5,7 @@
 ### Hello! I'm Thịnh, just a data science student pass by 😊 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=radical)](https://git.io/streak-stats)
 
 ## 🚀 Featured Projects
 
