@@ -30,7 +30,7 @@
 </a><br>
 
 <a href="https://www.instagram.com/lizzy0100/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="200"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="200"/>
 </a>
 
 
