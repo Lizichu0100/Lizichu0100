@@ -14,8 +14,11 @@
 
 ## My Languages 💻
 ![Python](https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge&logo=python&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-25%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-20%25-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![R](https://img.shields.io/badge/R-15%25-blue?style=for-the-badge&logo=r&logoColor=white)
 
 ## Achievements 🏆
