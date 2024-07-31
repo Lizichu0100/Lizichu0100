@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/4dcbf930-3b4b-4926-a099-14f43ff9dc56)<div align="center">
   <h1>Hi there! 👋</h1>
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzZzJuOXhpZ2tqaHNod3hmNml2OTk3Nmw1NW0zNWZ2aTE2bXE0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif)
@@ -25,7 +25,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=github-dark-blue&hide_border=true&card_width=400)](https://git.io/streak-stats)
 
 ## Achievements 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&&title=-PullRequest,-Issues&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 
