@@ -5,6 +5,7 @@
 ## Hello! I'm Thịnh Phan, just a data science student pass by 😊 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu0100&show_icons=true&theme=dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu0100&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 Featured Projects
@@ -25,6 +26,7 @@
 ## Connect with Me
 
 [![Twitter](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Liziichu)
+
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizzy0100/)
 
 ---
