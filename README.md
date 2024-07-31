@@ -28,4 +28,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizzy0100/)
 
 ---
-Thank you for visiting my profile! Feel free to reach out.
+## Thank you for visiting my profile! Feel free to reach out. 🎉
