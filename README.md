@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! 👋</h1>
 
-![Hello](https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif?cid=790b7611nu0zfs0bggwvtazpisatzida23go58jfgvmoprl4&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+<img src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif?cid=790b7611nu0zfs0bggwvtazpisatzida23go58jfgvmoprl4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
 </div>
 
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊  
