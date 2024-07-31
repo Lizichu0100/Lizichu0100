@@ -24,7 +24,7 @@
 
 ## Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Liziichu)
+[![Twitter](https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Liziichu)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizzy0100/)
 
 ---
