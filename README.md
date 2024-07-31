@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi there! 👋</h1>
-</div>
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzZzJuOXhpZ2tqaHNod3hmNml2OTk3Nmw1NW0zNWZ2aTE2bXE0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif)
+</div>
 
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊 
 
