@@ -4,8 +4,8 @@
 
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu0100&show_icons=true&theme=github_dark&hide_border=true&card_width=350)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=github-dark-blue&hide_border=true&card_width=350)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lizichu0100&show_icons=true&theme=github_dark&hide_border=true&card_width=370)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lizichu&theme=github-dark-blue&hide_border=true&card_width=370)](https://git.io/streak-stats)
 
 ## 🚀 Featured Projects
 
@@ -14,10 +14,10 @@
 
 ## My Languages 💻
 <div>
-<img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" width="100"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" width="80"/>
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" width="54"/>
-<img src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" width="75"/>
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" width="100"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" width="80"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" width="54"/>
+  <img src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" width="75"/>
 <div>
 
 
@@ -36,4 +36,5 @@
 
 
 ---
-### Thank you for visiting my profile! Feel free to reach out. 🎉
+### Thank you for visiting! Feel free to reach out. 🎉
+
