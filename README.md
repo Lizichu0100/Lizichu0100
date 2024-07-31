@@ -27,7 +27,6 @@
 <a href="https://twitter.com/Liziichu" target="_blank">
   <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" width="100"/>
 </a>
-
 <a href="https://www.instagram.com/lizzy0100/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="200"/>
 </a>
