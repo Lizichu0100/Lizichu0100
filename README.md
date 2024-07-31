@@ -11,7 +11,7 @@
 ### [🎓 Analyze the exam scores data of high school graduates in 2024 and predict math scores 2025 using regression models.](https://github.com/Lizichu0100/AnalyzeData_Thi_THPT_2024)
 ### [🎥 Movie Recommendation System.](https://github.com/Lizichu0100/Movie-recommendation-system)
 ### [🏡 House Price Prediction in Ho Chi Minh city.](https://github.com/Lizichu0100/HousePricePrediction)
-### [💲 Stock Analysis](https://github.com/Lizichu0100/StockAnalysis)
+### [💲 Stock Analysis.](https://github.com/Lizichu0100/StockAnalysis)
 
 ## My Languages 💻
 <div>
