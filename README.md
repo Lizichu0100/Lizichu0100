@@ -12,10 +12,10 @@
 
 
 ## My Languages 💻
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"/>
+![Python](<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>)
+![SQL](<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50"/>)
+![C++](<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>)
+![R](<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"/>)
 
 ## Achievements 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
