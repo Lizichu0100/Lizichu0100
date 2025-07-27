@@ -7,6 +7,7 @@
 ### Hello! I’m Thịnh, just a data science student passing by, currently studying at HCMUS-VNU. 😊  
 
 ## 🚀 Featured Projects
+### [🛒 Product Recommendation System for E-commerce Platform.](https://github.com/Lizichu0100/Recommendation-System-for-E-commerce)
 ### [🧑 Facial expression recognition using machine learning algorithms.](https://github.com/Lizichu0100/Fundamental-ML)
 ### [🎓 Analyzed 2024 graduation exam data and predicted 2025 Math scores using regression.](https://github.com/Lizichu0100/AnalyzeData_Thi_THPT_2024)
 ### [🎥 Movie Recommendation System.](https://github.com/Lizichu0100/Movie-recommendation-system)
